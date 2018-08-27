@@ -1,0 +1,42 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "exeprimento arquitetura P2P com BitTorrent",
+  "main": "interface peer",
+  "dependencies": {
+    "bencode": "^0.9.0",
+    "big-number": "^1.0.0",
+    "biginteger": "^1.0.3",
+    "bignum": "^0.13.0",
+    "bignumber": "^1.1.0",
+    "biguint-format": "^1.0.0",
+    "buffer": "^5.1.0",
+    "crypto": "^1.0.1",
+    "dgram": "^1.0.1",
+    "fs": "0.0.1-security",
+    "json-bignum": "0.0.3",
+    "node-gyp": "^3.7.0",
+    "node-pre-gyp": "^0.10.3",
+    "prebuild-install": "^5.0.0",
+    "puppy": "0.0.1",
+    "rebuild": "^0.1.2",
+    "substack": "^7.7.7",
+    "torrent": "^2.0.0",
+    "torrent-parser": "^1.2.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/antoniotavarespereira/ad-si-2018-1-p4.git"
+  },
+  "author": "Antonio Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/antoniotavarespereira/ad-si-2018-1-p4/issues"
+  },
+  "homepage": "https://gitlab.com/antoniotavarespereira/ad-si-2018-1-p4#README"
+}
