@@ -12,4 +12,4 @@ Disciplina: Aplicações Distribuídas(AD) </br>
 
 Descrição: Este projeto consiste no estudo e experimentação da arquitetura P2P utilizando BitTorrent</br>
 
-[Tutorial do Projeto](https://gitlab.com/antoniotavarespereira/ad-si-2018-1-p4/wikis/Tutorial "Tutorial do Projeto")</br>
+[Tutorial do Projeto](https://github.com/antoniotavares20/ClientTorrent/wiki/Tutorial)</br>
